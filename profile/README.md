@@ -9,3 +9,5 @@ mostly for infrastructure people.
 
 Nothing on the shelf yet — the first batch is in the oven. It will be listed at
 [bytery.dev](https://bytery.dev).
+
+Write to [hello@bytery.dev](mailto:hello@bytery.dev).
